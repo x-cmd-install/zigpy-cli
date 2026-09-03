@@ -1,11 +1,13 @@
 about:
-  description: Command line interface for zigpy
+  description:
+  |
+    Command line interface for zigpy
   license: GPL-3.0
   homepage: 
   head: d5de026
   archived: false
   latestVersion: v2.0.0
-  collectedAt: 2026-09-03T05:13:04Z
+  collectedAt: 2026-09-03T22:37:35Z
 timeline:
   created: 2021-07-12
   lastCommit: 2026-08-25
@@ -20,7 +22,7 @@ popularity:
   issue: 23
 language:
   Python: 36887
-totalLine: 36887
+totalBytes: 36887
 recent:
   last30d:
     since: 2026-08-04
