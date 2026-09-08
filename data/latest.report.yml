@@ -5,7 +5,7 @@ about:
   head: d5de026
   archived: false
   latestVersion: "v2.0.0"
-  collectedAt: 2026-09-08T03:08:54Z
+  collectedAt: 2026-09-08T05:51:28Z
 timeline:
   created: 2021-07-12
   lastCommit: 2026-08-25
@@ -79,7 +79,7 @@ total:
   commit: 50
 ---
 path: /home/runner/.x-repo/github.com/zigpy/zigpy-cli
-collectedAt: 2026-09-08T03:08:55Z
+collectedAt: 2026-09-08T05:51:30Z
 loc:
   Python:
     code: 975
