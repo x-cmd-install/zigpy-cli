@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.0.0"
   latestRelease: "v2.0.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T06:05:50Z
+  collectedAt: 2026-09-10T18:05:11Z
 timeline:
   created: 2021-07-12
   lastCommit: 2026-08-25
@@ -83,7 +83,7 @@ total:
   commit: 50
 ---
 path: /home/runner/.x-repo/github.com/zigpy/zigpy-cli
-collectedAt: 2026-09-10T06:05:51Z
+collectedAt: 2026-09-10T18:05:14Z
 loc:
   Python:
     code: 975
