@@ -34,22 +34,22 @@ Total: **1,034** lines of code across **15** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 77 · **Forks**: 16 · **Open issues**: 23 · **Contributors**: 4
+- **Stars**: 77 · **Forks**: 17 · **Open issues**: 23 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 27 · **Open PRs**: 5 · **Closed issues**: 14 · **Open issues**: 9 · **Commits**: 50
+- **Releases**: 10 · **Merged PRs**: 27 · **Open PRs**: 6 · **Closed issues**: 14 · **Open issues**: 9 · **Commits**: 50
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-29 | 1 | 1 | 0 | 0 | 0 | 1 |
-| 90d | 2026-06-29 | 1 | 1 | 0 | 0 | 0 | 1 |
-| last180d | 2026-03-31 | 1 | 1 | 0 | 0 | 0 | 1 |
-| 360d | 2025-10-02 | 3 | 4 | 0 | 1 | 1 | 4 |
-| last720d | 2024-10-07 | 4 | 7 | 0 | 1 | 2 | 7 |
+| 30d | 2026-08-29 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-30 | 1 | 1 | 1 | 0 | 0 | 1 |
+| 90d | 2026-06-30 | 1 | 1 | 1 | 0 | 0 | 1 |
+| last180d | 2026-04-01 | 1 | 1 | 1 | 0 | 0 | 1 |
+| 360d | 2025-10-03 | 3 | 4 | 1 | 1 | 1 | 4 |
+| last720d | 2024-10-08 | 4 | 7 | 1 | 1 | 2 | 7 |
 
 ## Improve this data
 
@@ -60,4 +60,4 @@ Install metadata for zigpy-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T06:20:52Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T06:38:07Z._
