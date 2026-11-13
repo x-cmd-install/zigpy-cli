@@ -14,12 +14,12 @@ x install zigpy-cli
 
 ## Code insight
 
-Total: **1,037** lines of code across **15** files in the top 5 languages.
+Total: **1,049** lines of code across **15** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 978 | 29 | 286 | 13 |
-| Toml | 59 | 3 | 9 | 1 |
+| Python | 989 | 29 | 286 | 13 |
+| Toml | 60 | 3 | 9 | 1 |
 | Markdown | 0 | 197 | 52 | 1 |
 
 ## Source
@@ -30,7 +30,7 @@ Total: **1,037** lines of code across **15** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.0.0` (2026-08-25)
-- **Last commit**: 2026-10-15
+- **Last commit**: 2026-11-12
 
 ## Popularity
 
@@ -38,18 +38,18 @@ Total: **1,037** lines of code across **15** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 28 · **Open PRs**: 6 · **Closed issues**: 14 · **Open issues**: 9 · **Commits**: 51
+- **Releases**: 10 · **Merged PRs**: 29 · **Open PRs**: 5 · **Closed issues**: 14 · **Open issues**: 9 · **Commits**: 52
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-13 | 0 | 0 | 2 | 0 | 0 | 1 |
-| 90d | 2026-08-14 | 1 | 1 | 2 | 0 | 0 | 2 |
-| last180d | 2026-05-16 | 1 | 1 | 2 | 0 | 0 | 2 |
-| 360d | 2025-11-17 | 3 | 4 | 2 | 1 | 1 | 5 |
-| last720d | 2024-11-22 | 4 | 7 | 2 | 1 | 2 | 8 |
+| 30d | 2026-10-14 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-14 | 0 | 1 | 1 | 0 | 0 | 2 |
+| 90d | 2026-08-15 | 1 | 2 | 1 | 0 | 0 | 3 |
+| last180d | 2026-05-17 | 1 | 2 | 1 | 0 | 0 | 3 |
+| 360d | 2025-11-18 | 3 | 5 | 1 | 1 | 1 | 6 |
+| last720d | 2024-11-23 | 4 | 8 | 1 | 1 | 2 | 9 |
 
 ## Improve this data
 
@@ -60,4 +60,4 @@ Install metadata for zigpy-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T08:53:42Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T08:17:55Z._
